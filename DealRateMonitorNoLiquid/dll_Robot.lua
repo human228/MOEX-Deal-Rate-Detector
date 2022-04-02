@@ -200,7 +200,7 @@ end
 function PutDataToTableInit()
 	--Clear(TableID)
 	SetWindowPos(TableID, 100, 200, 500, 300)
-	SetWindowCaption(TableID, "DealRateMonitor | No Liquid Market")
+	SetWindowCaption(TableID, "DealRateDetector | No Liquid Market")
 
 	----------------------[Инициализация инструментов]---------------
 	for i = 1, #Emitents do
