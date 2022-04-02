@@ -6,7 +6,7 @@ is_run = true
 Timer = 3
 FileLog = getScriptPath().."\\BOT1_LOG.txt"
 someData = os.date("%Y-%m-%d")
-FileData = getScriptPath().."\\BOT1_DATA " .. someData .. ".txt"
+FileData = getScriptPath().."\\BOT_DATA " .. someData .. ".txt"
 Problem = ""
 
 -----------------------------------
