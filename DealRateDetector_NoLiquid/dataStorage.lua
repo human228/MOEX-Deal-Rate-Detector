@@ -1,5 +1,6 @@
 		-- Ticker, Speed, OldDealValue, OldSpeedValue, TickCount
     Emitents = {
+    {"ASTR", 0, 0, 0, 0},
     {"HMSG", 0, 0, 0, 0},
     {"KCHE", 0, 0, 0, 0},
     {"KCHEP", 0, 0, 0, 0},
